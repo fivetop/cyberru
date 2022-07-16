@@ -1,13 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Cyber Ru</a> </h1>
-<h3 align="center">ERROR 404 not found</h3>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi+there%2C+I'm+Cyber+Ru;Error+404+Not+Found)](https://git.io/typing-svg)
 
 ### Languages:
 <p align="left"> 
@@ -43,12 +34,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-### 📃 Latest Habr Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Росфинмониторинг собирается регулировать оборот игровых валют](https://habr.com/ru/post/675662/)
-- [Apple анонсировала Lockdown Mode — режим защиты от кибератак и шпионского ПО](https://habr.com/ru/post/675624/)
-- [«Газпром Медиа Холдинг» запустил закрытый бета-тест приложения «АудиоКлуб»](https://habr.com/ru/post/675582/)
-- [Американский стартап выпустил биоразлагаемую одежду и обувь из жидкой целлюлозы](https://habr.com/ru/post/675542/)
-- [Злоумышленники используют вредоносные npm-пакеты для кражи пользовательских данных](https://habr.com/ru/post/675508/)
-<!-- BLOG-POST-LIST:END -->  
