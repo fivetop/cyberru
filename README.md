@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Cyber Ru</a> </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
+<h3 align="center">ERROR 404 not found</h3>
 
 
 
