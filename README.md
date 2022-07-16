@@ -9,7 +9,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
