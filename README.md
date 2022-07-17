@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=100&color=FF0000&background=FF000000&center=true&vCenter=true&multiline=true&height=150&lines=Error+404+;Not+Found)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=100&color=FF0000&background=FF000000&center=true&vCenter=true&multiline=true&height=150&lines=Error+404+;Not+Found)](https://t.me/cyberru)
